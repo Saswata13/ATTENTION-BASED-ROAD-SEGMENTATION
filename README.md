@@ -46,6 +46,12 @@ We have used functions from Automold to introduce special augmentations like the
 
 The entire code is in the form of a jupyter notebook (.ipynb) file. To run the file, download the notebook and data from this repository to your local system and change the directory names in the notebook accordingly. 
 
+# SOME RESULTS ON UNSEEN TEST IMAGES (ALSO AVAILABLE IN THE JUPYTER NOTEBOOK)
+
+![image](https://user-images.githubusercontent.com/59358774/168701647-de5e06d6-58cf-4a75-8f94-1417dcb62b08.png)
+![image](https://user-images.githubusercontent.com/59358774/168701687-2bf6215c-371e-41bd-8b24-e677324ee0ba.png)
+![image](https://user-images.githubusercontent.com/59358774/168701712-37bc1a9f-7760-4a72-8edb-83d64f6ef587.png)
+
 # Conclusion and Future works
 
 We have successfully implemented our own framework based on a structure guided lane detection framework SG-Net. Although our framework is a bit different in that ours is more of an attention guided framework as compared to the structure guided framework proposed in the paper. It should be noted that the feature extractor used by us is similar to the one used in the paper and hence it can be concluded that the backbone of our framework is based on the SG-Net framework although the lane representations and the procedure to learn them are a bit different.
