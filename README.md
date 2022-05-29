@@ -1,4 +1,4 @@
-# PAPER---STRUCTURE-GUIDED-LANE-DETECTION
+# ATTENTION BASED ROAD SEGMENTATION
 
 The paper we are trying to implement is based on structure-guided lane detection for autonomous vehicles. The original datasets used by the authors are the **CU Lane** and the **TuSimple** datasets. Both these datasets are very big and computationally expensive to work on. For our purposes we will be using the **KITTI Road dataset** published by Karlsruhe Institute of Technology. The link to the original dataset is: http://www.cvlibs.net/datasets/kitti/eval_road.php
 
